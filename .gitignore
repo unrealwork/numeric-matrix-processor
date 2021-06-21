@@ -1,0 +1,26 @@
+# Project exclude paths
+/.gradle/
+/Numeric Matrix Processor/task/build/
+/Numeric Matrix Processor/task/out/
+/Numeric Matrix Processor/task/out/production/classes/
+/Topics/Data class/Theory/build/
+/Topics/Declaring functions/Theory/build/
+/Topics/Inheritance/Cart/out/
+/Topics/Inheritance/Cart/out/production/classes/
+/Topics/Inheritance/House inheritance/out/
+/Topics/Inheritance/House inheritance/out/production/classes/
+/Topics/Integers in action/Theory/build/
+/Topics/Properties accessors/Weather comparison/out/
+/Topics/Properties accessors/Weather comparison/out/production/classes/
+/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task/out/
+/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task/out/production/classes/
+/Topics/Reading data with a readLine/Reversed output/out/
+/Topics/Reading data with a readLine/Reversed output/out/production/classes/
+/Topics/Relational operators/Theory/build/
+/Topics/String templates/Print two numbers on the same line/out/
+/Topics/String templates/Print two numbers on the same line/out/production/classes/
+/Topics/String templates/Theory/build/
+/Topics/The classification of basic types/Max values of integer types/out/
+/Topics/The classification of basic types/Max values of integer types/out/production/classes/
+/Topics/The classification of basic types/Size, min and max/out/
+/Topics/The classification of basic types/Size, min and max/out/production/classes/
